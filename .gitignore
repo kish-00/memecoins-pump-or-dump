@@ -7,3 +7,4 @@ __pycache__/
 kaggle.json
 .DS_Thumbs
 .env
+sample_submission.csv

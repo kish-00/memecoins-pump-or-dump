@@ -57,7 +57,7 @@ This persists across Colab sessions.
 ## Step 6 — Push code to GitHub
 ```bash
 cd /home/kish/Documents/projects/kaggle/memecoins-pump-or-dump
-git add notebooks/ requirements.txt README.md PLAN.md COLAB_WORKFLOW.md
+git add notebooks/ requirements.txt README.md COLAB_WORKFLOW.md
 git commit -m "Add Colab baseline notebook and workflow"
 git push origin main
 ```

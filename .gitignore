@@ -11,6 +11,6 @@ sample_submission.csv
 
 # Private planning material — kept local / in ~/.opencode/plan, never published
 .opencode/
-PLAN.md
 notes/
 *.plan.md
+!PLAN.md
